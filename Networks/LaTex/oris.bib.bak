@@ -1,0 +1,110 @@
+@Misc{Bianconi2021,
+  author = {Ginestra Bianconi},
+  month  = {May},
+  title  = {Introduction to Network Theory},
+  year   = {2021},
+}
+
+@InProceedings{SciPyProceedings_11,
+  author    = {Aric A. Hagberg and Daniel A. Schult and Pieter J. Swart},
+  booktitle = {Proceedings of the 7th Python in Science Conference},
+  title     = {Exploring Network Structure, Dynamics, and Function using NetworkX},
+  year      = {2008},
+  address   = {Pasadena, CA USA},
+  editor    = {Ga\"el Varoquaux and Travis Vaught and Jarrod Millman},
+  pages     = {11 - 15},
+}
+
+@Article{Erdos:1959:pmd,
+  author    = {Erd\"os, P and R\'enyi, A},
+  journal   = {Publicationes Mathematicae Debrecen},
+  title     = {On Random Graphs I},
+  year      = {1959},
+  pages     = {290--297},
+  volume    = {6},
+  added-at  = {2017-10-20T13:47:06.000+0200},
+  biburl    = {https://www.bibsonomy.org/bibtex/2420b83c1533188c0b54bd1f6eea2b782/krevelen},
+  interhash = {99061fc859ba540d4485abfbce44f298},
+  intrahash = {420b83c1533188c0b54bd1f6eea2b782},
+  keywords  = {epidemes},
+  timestamp = {2017-10-20T13:47:26.000+0200},
+}
+
+@Article{paul2004optimization,
+  author    = {Paul, Gerry and Tanizawa, T and Havlin, Shlomo and Stanley, H Eugene},
+  journal   = {The European Physical Journal B},
+  title     = {Optimization of robustness of complex networks},
+  year      = {2004},
+  number    = {2},
+  pages     = {187--191},
+  volume    = {38},
+  publisher = {Springer},
+}
+
+@InProceedings{nr,
+  author    = {Ryan A. Rossi and Nesreen K. Ahmed},
+  booktitle = {AAAI},
+  title     = {The Network Data Repository with Interactive Graph Analytics and Visualization},
+  year      = {2015},
+  url       = {https://networkrepository.com},
+}
+
+@Article{opsahl2011anchorage,
+  author = {Opsahl, Tore},
+  title  = {Why anchorage is not (that) important: Binary ties and sample selection},
+  year   = {2011},
+}
+
+@Article{li2004yeast,
+  author    = {Li, Fangting and Long, Tao and Lu, Ying and Ouyang, Qi and Tang, Chao},
+  journal   = {Proceedings of the National Academy of Sciences},
+  title     = {The yeast cell-cycle network is robustly designed},
+  year      = {2004},
+  number    = {14},
+  pages     = {4781--4786},
+  volume    = {101},
+  publisher = {National Acad Sciences},
+}
+
+@Article{kosterev1999model,
+  author    = {Kosterev, Dmitry N and Taylor, Carson W and Mittelstadt, William A},
+  journal   = {IEEE transactions on power systems},
+  title     = {Model validation for the August 10, 1996 WSCC system outage},
+  year      = {1999},
+  number    = {3},
+  pages     = {967--979},
+  volume    = {14},
+  publisher = {IEEE},
+}
+
+@Article{barabasi1999emergence,
+  author    = {Barab{\'a}si, Albert-L{\'a}szl{\'o} and Albert, R{\'e}ka},
+  journal   = {science},
+  title     = {Emergence of scaling in random networks},
+  year      = {1999},
+  number    = {5439},
+  pages     = {509--512},
+  volume    = {286},
+  publisher = {American Association for the Advancement of Science},
+}
+
+@InBook{barabasi,
+  author    = {Albert-László Barabási},
+  chapter   = {Network Robustness},
+  publisher = {Cambridge University Press},
+  title     = {Network Science},
+  year      = {2016},
+}
+
+@Article{watts1998collective,
+  author    = {Watts, Duncan J and Strogatz, Steven H},
+  journal   = {nature},
+  title     = {Collective dynamics of small-world networks},
+  year      = {1998},
+  number    = {6684},
+  pages     = {440--442},
+  volume    = {393},
+  publisher = {Nature Publishing Group},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
