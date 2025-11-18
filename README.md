@@ -1,4 +1,4 @@
-This repository contains documents from my research project on network science with Prof. Bianconi from Queen Mary Uniervsity, prior to starting university. 
+This repository contains documents from my research project on network science with Prof. Biancononi, prior to staring university.
 
 I simulated synthetic and real-world networks (protein-protein interaction networks, gene regulation networks, airport networks, etc.) confirming existing 
 theoretical predictions, as well as exploring my own research questions.
